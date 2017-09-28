@@ -1,0 +1,13 @@
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\WindowsApp\bin\Debug\WindowsApp.exe.config
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\WindowsApp\bin\Debug\WindowsApp.exe
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\WindowsApp\bin\Debug\WindowsApp.pdb
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\WindowsApp\bin\Debug\Entidades.dll
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\WindowsApp\bin\Debug\Negocio.dll
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\WindowsApp\bin\Debug\Entidades.pdb
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\WindowsApp\bin\Debug\Negocio.pdb
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\WindowsApp\obj\Debug\WindowsApp.csprojResolveAssemblyReference.cache
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\WindowsApp\obj\Debug\WindowsApp.Form1.resources
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.Cache
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\WindowsApp\obj\Debug\WindowsApp.exe
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\WindowsApp\obj\Debug\WindowsApp.pdb

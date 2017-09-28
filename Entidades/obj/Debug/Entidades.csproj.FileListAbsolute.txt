@@ -1,0 +1,5 @@
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\Entidades\bin\Debug\Entidades.dll
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\Entidades\bin\Debug\Entidades.pdb
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\Entidades\obj\Debug\Entidades.dll
+c:\users\cursonet\documents\visual studio 2015\Projects\SlnClinica\Entidades\obj\Debug\Entidades.pdb
